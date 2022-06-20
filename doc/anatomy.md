@@ -1,14 +1,11 @@
 # Cloud Formation Template Anatomy
 
 [Home](../README.md) |
-[AWS Console](https://console.aws.amazon.com) |
-Anatomy |
 [lab-001](lab-001.md) |
 [lab-002](lab-002.md) |
 [lab-003](lab-003.md) |
 [lab-004](lab-004.md) |
-[lab-005](lab-005.md) |
-[lab-006](lab-006.md)
+
 
 ## Template Sections
 

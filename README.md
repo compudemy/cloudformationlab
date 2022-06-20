@@ -1,9 +1,7 @@
 # Hands On Infrastructure as Code (IaC) with AWS Cloud Formation
 
 Home |
-[AWS Console](https://goo.gl/c3q5bv) |
-[Switch Role](https://goo.gl/9ascNB) |
-[Anatomy](doc/anatomy.md) |
+
 [lab-001](doc/lab-001.md) |
 [lab-002](doc/lab-002.md) |
 [lab-003](doc/lab-003.md) |

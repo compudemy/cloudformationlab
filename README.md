@@ -6,10 +6,10 @@ Home |
 [lab-002](doc/lab-002.md) |
 [lab-003](doc/lab-003.md) |
 [lab-004](doc/lab-004.md) |
-[lab-005](doc/lab-005.md) 
+ 
 
 
-DevOps Playground Meetup 19 - Introduction to CloudFromation
+Introduction to CloudFromation
 
 # Introduction
 
@@ -34,7 +34,4 @@ What is cnf-init?
 ## Further Reading
 1. [AWS CloudFormation FAQs](https://aws.amazon.com/cloudformation/faqs/)
 1. [AWS CloudFormation Designer](https://console.aws.amazon.com/cloudformation/designer/home?region=us-east-1) - Using `us-east-1` region
-1. Udemy - [AWS CloudFormation Master Class](https://www.udemy.com/aws-cloudformation-master-class/learn/v4/overview)
-1. acloud.guru - [Advanced AWS CloudFormation](https://acloud.guru/learn/aws-advanced-cloudformation)
-1. YouTube - [AWS re:Invent 2017: Deep Dive on AWS CloudFormation (DEV317)](https://www.youtube.com/watch?v=01hy48R9Kr8), 29 Nov 2017
-1. SlideShare - [DEV317_Deep Dive on AWS CloudFormation](https://www.slideshare.net/AmazonWebServices/dev317deep-dive-on-aws-cloudformation), By Anil Kumar (Senior Product Manager), Luis Colon (Senior Developer Advocate)
+
